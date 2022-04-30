@@ -3,6 +3,6 @@ This project aims to use past CO2 emissions data up until 2018 to predict future
 
 The team is comprised of Brandon, Kat, Steven, and Camille.
 
-### Communication Protocols ###
+### Team Communication Protocols ###
 We've decided to work asynchronously as much as possible, providing updates to each other in a group Slack. We meet on Mondays and Wednesdays via Zoom, where we think through any challenges we're facing and create a plan to address them. We each have our own branch in this repo where we push updates and may create separate repositories on our own accounts to create first drafts of code.
 
