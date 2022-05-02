@@ -12,11 +12,11 @@ Postgres is utilized in this analysis to store our database within the pgAdmin c
 
 ## Machine Learning
 
-An ARIMA mode lis used t Our training and testing setup is ___. Extra ML verbiage here.
+An ARIMA model is being used as our provisional machine learning model. It will be designed to take in data from our provisional database and is able to output labels for the input data. For this predictive analysis, the ARIMA model, which is also an auto-regression model, was chosen because it is best-suited for time-series forecasting (in this scenario, CO2 emissons vs time). Statsmodels library was used to display autocorrelation and partial autocorrelation plots for the next series of visualizations. This library was also used to import ARIMA. 
 
 ## Dashboard
 
-In addition to using a Flask template, we will also integrate D3.js for a fully functioning and interactive dashboard. It will be hosted on ___.
+An interactive dashboard will be created further into the project's evolution by considering Tableau as the platform of chose for our audience. Because of it's user-friendly features, Tableau will likely be used for the dashboard. We want CO2 emission data to be easily-interpretable amongst all type of demographics. 
 
 ## Tools
 
@@ -28,6 +28,6 @@ Python, SQL
 
 ## Libraries
 
-plotly, pandas, numpy, matplotlib
+plotly, pandas, numpy, matplotlib, statsmodels, sklearn
 
 
