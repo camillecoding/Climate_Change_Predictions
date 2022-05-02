@@ -12,7 +12,7 @@ Postgres is utilized in this analysis to store our database within the pgAdmin c
 
 ## Machine Learning
 
-An ARIMA model is being used as our provisional machine learning model. It will be designed to take in data from our provisional database and is able to output labels for the input data. For this predictive analysis, the ARIMA model, which is also an auto-regression model, was chosen because it is best-suited for time-series forecasting (in this scenario, CO2 emissons vs time). Statsmodels library was used to display autocorrelation and partial autocorrelation plots for the next series of visualizations. This library was also used to import ARIMA. 
+An ARIMA model is being used as our provisional machine learning model. It will be designed to take in data from our provisional database and is able to output labels for the input data. For this predictive analysis, the ARIMA model, which is also an auto-regression model, was chosen because it is best-suited for time-series forecasting (in this scenario, CO2 emissons vs time). Statsmodels library was used to display autocorrelation and partial autocorrelation plots for the next series of visualizations. This library was also used to import ARIMA. This model will continue to be revised in an attempt to better understanding our machine learning model as we progress further into the project.
 
 ## Dashboard
 
