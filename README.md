@@ -6,7 +6,7 @@ This team project aims to use past CO2 emissions data up until 2018 to predict f
 
 We selected this topic because we wanted to work on a salient issue - and we also wanted to measure the accuracy of our machine learning model against actual data. Since there is so much research on emissions and environmental impact, this topic aligned with our goals. 
 
-Our team selected world emissions data from [Our World in Data's Github page](https://github.com/owid/co2-data). CAIT is an open source website dedicated to monitoring greenhouse gas emissions by country. They compile data from a variety of national and international sources on their website. 
+Our team selected world emissions data from [Our World in Data's Github page](https://github.com/owid/co2-data). Our World in Data is an open source website dedicated to monitoring greenhouse gas emissions, among other metrics, by country. They compile data from a variety of national and international sources on their website. 
 
 ### Hypothesis ###
 We have several questions we expect that this data will answer. The main questions for our project are:
