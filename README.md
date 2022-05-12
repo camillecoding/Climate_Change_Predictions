@@ -10,8 +10,10 @@ Our team selected world emissions data from [Our World in Data's Github page](ht
 
 ### Hypothesis ###
 We have several questions we expect that this data will answer. The main questions for our project are:
-* Can our machine learning model accurately predict 2019 emissions data?
-* Will our machine learning model inaccurately predict 2020 data, since the onset of coronavirus and subsequent quarantine orders greatly reduced emissions?
+* Can our machine learning model accurately predict emissions data from now until 2050?
+* How do changes in global surface temperatures affect emissions data, or vice versa?
+*
+*
 
 
 
