@@ -22,7 +22,7 @@ We have several questions we expect that this data will answer. The main questio
 
 We've decided to work asynchronously as much as possible, providing updates to each other in a group Slack. We meet on Mondays and Wednesdays via Zoom, where we think through any challenges we're facing and create a plan to address them. We each have our own branch in this repo where we push updates and may create separate repositories on our own accounts to create first drafts of code.
 
-### :computer: Database Development
+### :computer: Database Development (pre-requisite to data exploration phase of the project)
 
 
 
