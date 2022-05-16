@@ -44,7 +44,7 @@ Questions users may ask might be:
 
 CO2 emissions data relies on the time variable. Undoubtedly, CO2 emissions have been increasing as time goes on. Thus, it's important to determine interactive maps and plots to display this data.
 
-I created a map with a time slider using Plotly in R to display CO2 emissions data globally as reported over time with the click of a button, "Play". This subtle interactivity provides users with an easy understanding of CO2 emissions changes over time and helps to answer broad questions users may have regarding regional or time differences.
+We created a map with a time slider using Plotly in R to display CO2 emissions data globally as reported over time with the click of a button, "Play". This subtle interactivity provides users with an easy understanding of CO2 emissions changes over time and helps to answer broad questions users may have regarding regional or time differences.
 
 ![](Mapping_World/static/images/R-Map-Screenshot.png)
 
