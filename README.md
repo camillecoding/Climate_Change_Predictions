@@ -2,7 +2,7 @@
 
 ![](Mapping_World/static/images/Website-Screenshot.png)
 
-## :triangular_ruler: Project outline: 
+### :triangular_ruler: Project Outline: 
 
 This team project aims to use past CO2 emissions data up until 2018 to predict future (2019 and 2020) emissions - then uses a machine learning model to test our hypothesis. The team is comprised of Brandon, Kat, Steven, and Camille. We believe that our prediction will be accurate in 2019 and inaccurate in 2020, since 2020 was a novel year. We will also use our model to forecast emissions data until 2050, since this is a benchmark year for reducing emissions targets. Our database of choice for this project will be pgadmin/SQL. An entity-relationship diagram was made beforehand to distinguish relationships within our data. Interactive maps will then be created to allow users to visualize the data for various characteristics such as time and region. Ultimately, we will combine all of these pieces to our project on a public website. 
 
@@ -26,7 +26,7 @@ We've decided to work asynchronously as much as possible, providing updates to e
 
 
 
-### :chart_with_upwards_trend: ARIMA model (data exploration phase of the project)
+### :chart_with_upwards_trend: ARIMA Model (data exploration phase of the project)
 
 For our time series data and forecasting model we chose to use an ARIMA model from ```statsmodels.tsa.arima.model```. Unfortunately, at this time there still needs to be work done to automate the analysis of CO2 corresponding to different countries. Each time series varies by the parameters ```ARIMA(p,d,q)``` where they need to be chosen carefully (overdifferencing can result in increased error when trying to establish stationarity). Below is a rolling ARIMA trained at each step to fine tune it's ability to forecast x amount of years into the future. Below is a comparison of the ARIMA model vs the test values along with a forecast of the model up until the year 2040 for China. There is still a way to immprove the model by forecasting our residual error to account for potential errors when forecasting, but this is yet to be implemented. As a baseline, this model seems to work rather well. 
 
