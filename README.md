@@ -1,6 +1,6 @@
-# project
+# Project 
 
-Deliverable 1
+## Deliverable 1
 
 X-role: I focused on the technology side of the project for Segment 1 of this project. Questions answered by me include: 
 
@@ -12,7 +12,7 @@ All of these different components play a large part in project efficacy, so know
 
 For Segment 1, the technology.md file is uploaded to our main repo to convey the list of technologies our team intends to use for the project.
 
-Deliverable 2
+## Deliverable 2
 
 We each developed a blended role to complete segment 2 of this project. I honed in on map and plot creations to allow user interactivity with CO2 emissions data. 
 
