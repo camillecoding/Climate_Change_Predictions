@@ -40,6 +40,23 @@ I created a map with a time slider using Plotly in R to display CO2 emissions da
 
 The website "Where Do We Stand" is still in progress and not published yet. However, development of our website began on nicepage, a website builder software. We chose this platform because of its clean designs and it allows us to be creative yet efficient with our time and resources.
 
+### Meet Our Developers:
+
+#### Brandon DeGraw
+
+* Github: [@brand0j](https://github.com/brand0j)
+
+#### Kat Marcinkowski
+
+* Github: [@katmarcin](https://github.com/katmarcin)
+
+#### Steven Woodring
+
+* Github: [@Steven-Woodring](https://github.com/Steven-Woodring)
+
+#### Camille May
+
+* Github: [@camillecoding](https://github.com/camillecoding)
 
 
 
