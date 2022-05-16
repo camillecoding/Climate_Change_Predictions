@@ -56,6 +56,14 @@ Another interactive map is in the works that uses HTML/JavaScript. The goal of t
 
 The website "Where Do We Stand" is still in progress and not published yet. However, development of our website began on nicepage, a website builder software. We chose this platform because of its clean designs and it allows us to be creative yet efficient with our time and resources.
 
+### :gear: Google Slides Presentation
+
+[Visit the Website Here](https://docs.google.com/presentation/d/1SZ6sEi_g2hc6ig5XFP1Tz_J80sFcxkxLEiBYQe4vods/edit?usp=sharing)
+
+### :gear: Google Slides Dashboard
+
+[Visit the Website Here](https://docs.google.com/presentation/d/1aYsOOY9v--lcTgFCp-6uXjAY5jcdNZep7P2AtG0mdTs/edit?usp=sharing)
+
 ### :link: Meet Our Developers:
 
 #### Brandon DeGraw
