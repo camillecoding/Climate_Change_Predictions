@@ -1,5 +1,7 @@
 # Project: Forecast of CO2 Emissions
 
+![](Mapping_World/static/images/Website-Screenshot.png)
+
 This team project aims to use past CO2 emissions data up until 2018 to predict future (2019 and 2020) emissions - then uses a machine learning model to test our hypothesis. The team is comprised of Brandon, Kat, Steven, and Camille. We believe that our prediction will be accurate in 2019 and inaccurate in 2020, since 2020 was a novel year. We will also use our model to forecast emissions data until 2050, since this is a benchmark year for reducing emissions targets.
 
 ### Background ###
@@ -25,8 +27,8 @@ For our time series data and forecasting model we chose to use an ARIMA model fr
 ![ARIMA_forecast](https://github.com/camillecoding/project/blob/main/Resources/ARIMA_forecast.PNG)
 
 
-### Website Development
+### Development of Website
 
-![](Mapping_World/static/images/Website-Screenshot.png). **will add in a couple minutes
+
 
 
