@@ -24,7 +24,9 @@ We've decided to work asynchronously as much as possible, providing updates to e
 
 ### :computer: Database Development (pre-requisite to data exploration phase of the project)
 
-Due to the structured nature of our data, we chose PostgreSQL to house our database. During our ETL process in pandas, we transformed our two dataframes (carbon emissions and surface temperatures) so that the countries serve as primary keys with each unique country only appearing in one row. To accomplish this, we had to pivot the years column to instead have a column for each of the 250 years. This pivot yielded very wide tables, but it was the best way to ensure the integrity of our database. We uploaded the two cleaned tables to PostgreSQL using SQLAlchemy, then executed an inner join to create a century summary table that displays the total emissions and average temperature for each country since the year 2000.
+Due to the structured nature of our data, we chose PostgreSQL to house our database. We used SQL to clean our emissions, surface temperatures, and country datasets, sorting each type of data into its own table and ensuring each country has its own row. We then exported each dataset as its own CSV and read those cleaned CSVs into Pandas for ETL. 
+
+During our ETL process in pandas, we transformed our two dataframes (carbon emissions and surface temperatures) so that the countries serve as primary keys with each unique country only appearing in one row. To accomplish this, we had to pivot the years column to instead have a column for each of the 250 years. This pivot yielded very wide tables, but it was the best way to ensure the integrity of our database. We uploaded the two cleaned tables to PostgreSQL using SQLAlchemy, then executed an inner join to create a century summary table that displays the total emissions and average temperature for each country since the year 2000.
 
 ### :chart_with_upwards_trend: ARIMA Model (data exploration phase of the project)
 
