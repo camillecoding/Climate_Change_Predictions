@@ -2,6 +2,8 @@
 
 ![](Mapping_World/static/images/Website-Screenshot.png)
 
+## :triangular_ruler: Project outline: 
+
 This team project aims to use past CO2 emissions data up until 2018 to predict future (2019 and 2020) emissions - then uses a machine learning model to test our hypothesis. The team is comprised of Brandon, Kat, Steven, and Camille. We believe that our prediction will be accurate in 2019 and inaccurate in 2020, since 2020 was a novel year. We will also use our model to forecast emissions data until 2050, since this is a benchmark year for reducing emissions targets.
 
 ### :mag_right: Background
@@ -11,12 +13,18 @@ We selected this topic because we wanted to work on a salient issue - and we als
 Our team selected world emissions data from [Our World in Data's Github page](https://github.com/owid/co2-data). Our World in Data is an open source website dedicated to monitoring greenhouse gas emissions, among other metrics, by country. They compile data from a variety of national and international sources on their website. 
 
 ### :bulb: Hypothesis 
+
 We have several questions we expect that this data will answer. The main questions for our project are:
 * Can our machine learning model accurately predict emissions data from now until 2050?
 * How do changes in global surface temperatures affect emissions data, or vice versa?
 
 ### :memo: Team Communication Protocols 
+
 We've decided to work asynchronously as much as possible, providing updates to each other in a group Slack. We meet on Mondays and Wednesdays via Zoom, where we think through any challenges we're facing and create a plan to address them. We each have our own branch in this repo where we push updates and may create separate repositories on our own accounts to create first drafts of code.
+
+### :computer: Database Development
+
+
 
 ### :chart_with_upwards_trend: ARIMA model (data exploration phase of the project)
 
