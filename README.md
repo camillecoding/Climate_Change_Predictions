@@ -1,4 +1,4 @@
-# Climate Change over Time: Reviewing CO2 Emissions and Surface Temperatures by Country
+# Climate Change over Time: Exploring CO2 Emissions and Surface Temperatures by Country
 
 ![](Mapping_World/static/images/Website-Screenshot.png)
 
