@@ -27,12 +27,18 @@ For our time series data and forecasting model we chose to use an ARIMA model fr
 ![ARIMA_forecast](https://github.com/camillecoding/project/blob/main/Resources/ARIMA_forecast.PNG)
 
 
-### Development of Website
-
 ### Interactive Maps
+
+CO2 emissions data relies on the time variable. Undoubtedly, CO2 emissions have been increasing as time goes on. Thus, it's important to determine interactive maps and plots to display this data.
+
+I created a map with a time slider using Plotly in R to display CO2 emissions data globally as reported over time with the click of a button, "Play". This subtle interactivity provides users with an easy understanding of CO2 emissions changes over time and helps to answer broad questions users may have regarding regional or time differences.
 
 ![](Mapping_World/static/images/R-Map-Screenshot.png)
 
+
+### Website Development
+
+The website "Where Do We Stand" is still in progress and not published yet. However, development of our website began on nicepage, a website builder software. We chose this platform because of its clean designs and it allows us to be creative yet efficient with our time and resources.
 
 
 
