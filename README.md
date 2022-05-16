@@ -29,6 +29,11 @@ For our time series data and forecasting model we chose to use an ARIMA model fr
 
 ### Development of Website
 
+### Interactive Maps
+
+![](Mapping_World/static/images/R-Map-Screenshot.png)
+
+
 
 
 
