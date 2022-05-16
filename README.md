@@ -18,7 +18,7 @@ We have several questions we expect that this data will answer. The main questio
 ### :memo: Team Communication Protocols 
 We've decided to work asynchronously as much as possible, providing updates to each other in a group Slack. We meet on Mondays and Wednesdays via Zoom, where we think through any challenges we're facing and create a plan to address them. We each have our own branch in this repo where we push updates and may create separate repositories on our own accounts to create first drafts of code.
 
-### :chart_with_upwards_trend: ARIMA model
+### :chart_with_upwards_trend: ARIMA model (data exploration phase of the project)
 
 For our time series data and forecasting model we chose to use an ARIMA model from ```statsmodels.tsa.arima.model```. Unfortunately, at this time there still needs to be work done to automate the analysis of CO2 corresponding to different countries. Each time series varies by the parameters ```ARIMA(p,d,q)``` where they need to be chosen carefully (overdifferencing can result in increased error when trying to establish stationarity). Below is a rolling ARIMA trained at each step to fine tune it's ability to forecast x amount of years into the future. Below is a comparison of the ARIMA model vs the test values along with a forecast of the model up until the year 2040 for China. There is still a way to immprove the model by forecasting our residual error to account for potential errors when forecasting, but this is yet to be implemented. As a baseline, this model seems to work rather well. 
 
@@ -27,7 +27,12 @@ For our time series data and forecasting model we chose to use an ARIMA model fr
 ![ARIMA_forecast](https://github.com/camillecoding/project/blob/main/Resources/ARIMA_forecast.PNG)
 
 
-### :earth_americas: Interactive Maps
+### :earth_americas: Interactive Maps (analysis phase of the project - currently produced by visualizations)
+
+Questions users may ask might be:
+
+* How does one country compare to another with regards to CO2 emissions released?
+* When did CO2 emissions begin to exponentially increase?
 
 CO2 emissions data relies on the time variable. Undoubtedly, CO2 emissions have been increasing as time goes on. Thus, it's important to determine interactive maps and plots to display this data.
 
