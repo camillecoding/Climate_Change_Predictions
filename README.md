@@ -48,6 +48,9 @@ I created a map with a time slider using Plotly in R to display CO2 emissions da
 
 ![](Mapping_World/static/images/R-Map-Screenshot.png)
 
+Another interactive map is in the works that uses HTML/JavaScript. The goal of this map is to create an event listener that allows users to select a year from a drop-down menu, then be able to click on each country and it's CO2 value is displayed along with the country's name. This map is similar to the previous map, however it requires more user interactivity. It allows the user to focus on one particular year and be able to click on any country and its corresponding data is returned. 
+
+- Thus far, we are able to display the country name when it is selected on the map. The next step is to integrate CO2 values by integrating an event-listener for year.
 
 ### :gear: Website Development
 
