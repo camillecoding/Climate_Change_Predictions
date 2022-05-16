@@ -1,4 +1,4 @@
-# Project: Forecast of CO2 emissions
+# Project: Forecast of CO2 Emissions
 
 This team project aims to use past CO2 emissions data up until 2018 to predict future (2019 and 2020) emissions - then uses a machine learning model to test our hypothesis. The team is comprised of Brandon, Kat, Steven, and Camille. We believe that our prediction will be accurate in 2019 and inaccurate in 2020, since 2020 was a novel year. We will also use our model to forecast emissions data until 2050, since this is a benchmark year for reducing emissions targets.
 
@@ -12,10 +12,6 @@ Our team selected world emissions data from [Our World in Data's Github page](ht
 We have several questions we expect that this data will answer. The main questions for our project are:
 * Can our machine learning model accurately predict emissions data from now until 2050?
 * How do changes in global surface temperatures affect emissions data, or vice versa?
-*
-*
-
-
 
 ### Team Communication Protocols ###
 We've decided to work asynchronously as much as possible, providing updates to each other in a group Slack. We meet on Mondays and Wednesdays via Zoom, where we think through any challenges we're facing and create a plan to address them. We each have our own branch in this repo where we push updates and may create separate repositories on our own accounts to create first drafts of code.
@@ -27,3 +23,10 @@ For our time series data and forecasting model we chose to use an ARIMA model fr
 ![ARIMA_train](https://github.com/camillecoding/project/blob/main/Resources/ARIMA_train.PNG)
 
 ![ARIMA_forecast](https://github.com/camillecoding/project/blob/main/Resources/ARIMA_forecast.PNG)
+
+
+### Website Development
+
+![](Mapping_World/static/images/Website-Screenshot.png). **will add in a couple minutes
+
+
