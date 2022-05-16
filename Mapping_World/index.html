@@ -2,35 +2,50 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
+  <title>CO2 Emissions Changes Over Time</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>Leaflet-Basic-Map</title>
 
   <!-- d3 JavaScript -->
   <script src="https://d3js.org/d3.v5.min.js"></script>
   
   <!-- Leaflet CSS -->
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css"
- 	integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
- 	crossorigin=""/>
+    integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
+    crossorigin=""/>
 
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="static/css/style.css">
 
 </head>
 <body>
-	<!-- The div that holds map -->
-	<div id="mapid"></div>
+    <!-- The div that holds map -->
+    <div id="mapid"></div>
 
-	<!-- Leaflet JavaScript -->
-	<script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"
-   	integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew=="
-   	crossorigin=""></script>
+    <!-- The div that holds map overlay-->
+    <div class="map-overlay top">
+      <div class="map-overlay-inner">
+        <h2>CO2 changes over time</h2>
+        <label id="year"></label>
+        <input id="slider" type="range" min="0" max="11" step="1" value="0">
+      </div>
+      <div class="map-overlay-inner">
+        <div id="legend" class="legend">
+          <div class="bar"></div>
+          <div>CO2 over the years</div>
+        </div>
+      </div>
+    </div>
 
-	<!-- API key -->
-	<script type="text/javascript" src="static/js/config.js"></script>
-	<!-- JavaScript -->
-	<script type="text/javascript" src="static/js/color-test.js"></script>
+    <!-- Leaflet JavaScript -->
+    <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"
+    integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew=="
+    crossorigin=""></script>
+
+    <!-- API key -->
+    <script type="text/javascript" src="static/js/config.js"></script>
+    <!-- JavaScript -->
+    <script type="text/javascript" src="static/js/logic.js"></script>
 
 </body>
 </html>
