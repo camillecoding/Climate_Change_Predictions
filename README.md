@@ -10,7 +10,7 @@ This team project aims to use past CO2 emissions data up until 2018 to predict f
 
 We selected this topic because we wanted to work on a salient issue - and we also wanted to measure the accuracy of our machine learning model against actual data. Since there is so much research on emissions and environmental impact, this topic aligned with our goals. 
 
-Our team selected world emissions data from [Our World in Data's Github page](https://github.com/owid/co2-data). Our World in Data is an open source website dedicated to monitoring greenhouse gas emissions, among other metrics, by country. They compile data from a variety of national and international sources on their website. 
+Our team selected world emissions data from [Our World in Data's Github page](https://github.com/owid/co2-data). Our World in Data is an open source website dedicated to monitoring greenhouse gas emissions by country. They compile data from a variety of national and international sources on their website. We also used data from [Berkeley Earth](https://www.kaggle.com/datasets/berkeleyearth/climate-change-earth-surface-temperature-data?select=GlobalLandTemperaturesByState.csv) that provides Earth surface temperature data and data from [Natural Earth] (https://github.com/datasets/geo-countries/blob/master/data/countries.geojson) for each country's GeoJSON data.
 
 ### :bulb: Hypothesis 
 
