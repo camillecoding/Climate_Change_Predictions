@@ -1,4 +1,5 @@
-# Project - Camille's Branch
+# Time-Series Predictive Modeling on Climate Change Data
+## Individual Branch ##
 This project aims to use past CO2 emissions data up until 2018 to predict future (2019 and 2020) emissions - then uses a machine learning model to test our hypothesis. We believe that our prediction will be accurate in 2019 and inaccurate in 2020, since 2020 was a novel year.  
 
 The team is comprised of Brandon, Kat, Steven, and Camille. This branch is where I will update code and test new ideas before sending completed code to the main branch.
