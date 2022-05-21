@@ -46,7 +46,10 @@ Questions users may ask might be:
 * How does one country compare to another with regards to CO2 emissions released?
 * When did CO2 emissions begin to exponentially increase?
 
-CO2 emissions data relies on the time variable. Undoubtedly, CO2 emissions have been increasing as time goes on. Thus, it's important to determine interactive maps and plots to display this data.
+CO2 emissions data relies on the time variable. Undoubtedly, CO2 emissions have been increasing as time goes on. We decided to use several programs to create maps, since we wanted to display different levels of interactivity. The iplot map below has a slider that indicates emissions over time.
+
+![newplot](https://user-images.githubusercontent.com/95657458/169627087-50e4c7db-464d-4b70-b38d-dff58af16c09.png)
+
 
 We created a map with a time slider using Plotly in R to display CO2 emissions data globally as reported over time with the click of a button, "Play". This subtle interactivity provides users with an easy understanding of CO2 emissions changes over time and helps to answer broad questions users may have regarding regional or time differences.
 
