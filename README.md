@@ -40,8 +40,12 @@ Our team selected world emissions data from [Our World in Data's Github page](ht
 ### :bulb: Hypothesis 
 
 We have several questions we expect that this data will answer. The main questions for our project are:
-* Can our machine learning model accurately predict emissions data from now until 2050?
-* How do changes in global surface temperatures affect emissions data, or vice versa?
+
+1) Can we use machine learning to accurately predict CO2 emissions between now and 2050?
+
+2) Will CO2 emissions continue to rise within the highest-emitting countries between now and 2050? 
+
+3) How will the projected CO2 emissions affect surface temperatures?
 
 ### :memo: Team Communication Protocols 
 
