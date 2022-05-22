@@ -61,7 +61,7 @@ Another interactive map is in the works that uses HTML/JavaScript. The goal of t
 
 ### :gear: Website Development
 
-The website "Where Do We Stand" is still in progress and not published yet. However, development of our website began on nicepage, a website builder software. We chose this platform because of its clean designs and it allows us to be creative yet efficient with our time and resources.
+The website "Where Do We Stand" was made with the help of templates provided by BootStrapMade, a website builder software. We chose this platform because of its clean designs and it allows us to be creative yet efficient with our time and resources.
 
 ### :gear: Google Slides Presentation
 
