@@ -4,11 +4,28 @@
 
 ### 🧰 Tools:
 
-Versions:
+Languages
 
-Pandas: 1.3.4
-Numpy: 1.20.3
-Statsmodels: 0.12.2
+* SQL
+* R
+* Python
+* HTML/CSS
+* Javascript
+
+Databases/Notebooks
+
+* pgAdmin/SQLite (data storage)
+* Jupyter Notebook (code-development)
+* Visual Studio Code (code-development)
+
+Versions
+
+* Pandas: 1.3.4
+* Plotly: 5.7.0
+* Numpy: 1.20.3
+* Statsmodels: 0.12.2
+* SKLearn: 0.24.2
+* Matplotlib: 3.4.3
 
 ### :triangular_ruler: Project Outline: 
 
