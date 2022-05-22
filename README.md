@@ -2,6 +2,14 @@
 
 ![](Mapping_World/static/images/Website-Screenshot.png)
 
+### 🧰 Tools:
+
+Versions:
+
+Pandas: 1.3.4
+Numpy: 1.20.3
+Statsmodels: 0.12.2
+
 ### :triangular_ruler: Project Outline: 
 
 This team project aims to use past CO2 emissions data up until 2018 to predict future (2019 and 2020) emissions - then uses a machine learning model to test our hypothesis. The team is comprised of Brandon, Kat, Steven, and Camille. We believe that our prediction will be accurate in 2019 and inaccurate in 2020, since 2020 was a novel year. We will also use our model to forecast emissions data until 2050, since this is a benchmark year for reducing emissions targets. Our database of choice for this project will be pgadmin/SQL. An entity-relationship diagram was made beforehand to distinguish relationships within our data. Interactive maps will then be created to allow users to visualize the data for various characteristics such as time and region. Ultimately, we will combine all of these pieces to our project on a public website. 
