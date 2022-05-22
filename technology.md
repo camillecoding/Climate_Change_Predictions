@@ -18,16 +18,29 @@ An ARIMA model is being used as our provisional machine learning model. It will 
 
 An interactive dashboard will be created further into the project's evolution by considering Tableau as the platform of chose for our audience. Because of it's user-friendly features, Tableau will likely be used for the dashboard. We want CO2 emission data to be easily-interpretable amongst all type of demographics. 
 
-## Tools
 
-pgAdmin, Postgres, Jupyter Notebook, QuickDBD, Slack.
+## Tools:
 
-## Languages
+Languages
 
-Python, SQL
+SQL
+R
+Python
+HTML/CSS
+Javascript
+Databases/Notebooks
 
-## Libraries
+pgAdmin/SQLite (data storage)
+Jupyter Notebook (code-development)
+Visual Studio Code (code-development)
+Versions
 
-plotly, pandas, numpy, matplotlib, statsmodels, sklearn
+Pandas: 1.3.4
+Plotly: 5.7.0
+Numpy: 1.20.3
+Statsmodels: 0.12.2
+SKLearn: 0.24.2
+Matplotlib: 3.4.3
+
 
 
