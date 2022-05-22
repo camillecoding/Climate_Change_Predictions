@@ -10,4 +10,4 @@ We've decided to work asynchronously as much as possible, providing updates to e
 
 
 ### Presentation ###
-[This is the link to our presentation.](https://docs.google.com/presentation/d/1SZ6sEi_g2hc6ig5XFP1Tz_J80sFcxkxLEiBYQe4vods/edit#slide=id.p)
+[This is the link to our Google Slides presentation.](https://docs.google.com/presentation/d/1SZ6sEi_g2hc6ig5XFP1Tz_J80sFcxkxLEiBYQe4vods/edit#slide=id.p)
