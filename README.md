@@ -14,9 +14,10 @@ Languages
 
 Databases/Notebooks
 
-* pgAdmin/SQLite (data storage)
+* pgAdmin/SQLite (database)
 * Jupyter Notebook (code-development)
 * Visual Studio Code (code-development)
+* QuickDBD (entity relationship diagram for the database)
 
 Versions
 
@@ -63,7 +64,7 @@ For our time series data and forecasting model we chose to use an ARIMA model fr
 
 Unfortunately, at this time there still needs to be work done to automate the analysis of CO2 corresponding to different countries. Each time series varies by the parameters ```ARIMA(p,d,q)``` where they need to be chosen carefully (overdifferencing can result in increased error when trying to establish stationarity). Below is a rolling ARIMA trained at each step to fine tune it's ability to forecast x amount of years into the future. Below is a comparison of the ARIMA model vs the test values along with a forecast of the model up until the year 2040 for China. There is still a way to immprove the model by forecasting our residual error to account for potential errors when forecasting, but this is yet to be implemented. As a baseline, this model seems to work rather well. 
 
-![ARIMA_train](https://github.com/camillecoding/project/blob/main/Resources/ARIMA_train.PNG)
+![ARIMA_train](https://github.com/camillecoding/project/blob/main/Resources/ARIMA_train.PNG) 
 
 ![ARIMA_forecast](https://github.com/camillecoding/project/blob/main/Resources/ARIMA_forecast.PNG)
 
