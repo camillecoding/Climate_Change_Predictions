@@ -14,10 +14,10 @@ Languages
 
 Databases/Notebooks
 
-* pgAdmin/SQLite (database)
-* Jupyter Notebook (code-development)
-* Visual Studio Code (code-development)
-* QuickDBD (entity relationship diagram for the database)
+* pgAdmin/SQLite 
+* Jupyter Notebook 
+* Visual Studio Code
+* QuickDBD 
 
 Versions
 
