@@ -7,8 +7,8 @@
 Languages
 
 * SQL
-* R
-* Python
+* R: 4.1.3
+* Python: 3.9.7
 * HTML/CSS
 * Javascript
 
