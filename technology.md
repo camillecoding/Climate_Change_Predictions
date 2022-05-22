@@ -16,7 +16,7 @@ An ARIMA model is used as our machine learning model. It is designed to take in 
 
 ## Dashboard
 
-The interactive dashboard of chose for our project is a website. Our website, "Where Do We Stand?" was developed with the help of BootstrapMade, a platform that provides templates for HTML, CSS & JavaScript frameworks. This step was key to providing a foundation for our website while allowing us to be creative with integrating user-friendly features. We especially want the CO2 emissions data, maps, and models to be easily-interpretable and navigable amongst all types of demographics. 
+The interactive dashboard of chose for our project is a website. Our website, "Where Do We Stand?" was developed with the help of BootstrapMade, a platform that provides templates for HTML, CSS & JavaScript frameworks. This step was key to providing a foundation for our website while allowing us to be creative with integrating user-friendly features. We especially want the CO2 emissions data, maps, and models to be easily-interpretable and navigable amongst all demographics. 
 
 
 ## Tools:
