@@ -22,13 +22,13 @@ We have several questions we expect that this data will answer. The main questio
 
 We've decided to work asynchronously as much as possible, providing updates to each other in a group Slack. We meet on Mondays and Wednesdays via Zoom, where we think through any challenges we're facing and create a plan to address them. We each have our own branch in this repo where we push updates and may create separate repositories on our own accounts to create first drafts of code.
 
-### :computer: Database Development (pre-requisite to data exploration phase of the project)
+### :computer: Database Development 
 
 Due to the structured nature of our data, we chose PostgreSQL to house our database. We used SQL to clean our emissions, surface temperatures, and country datasets, sorting each type of data into its own table and ensuring each country has its own row. We then exported each dataset as its own CSV and read those cleaned CSVs into Pandas for ETL. 
 
 During our ETL process in pandas, we transformed our two dataframes (carbon emissions and surface temperatures) so that the countries serve as primary keys with each unique country only appearing in one row. To accomplish this, we had to pivot the years column to instead have a column for each of the 250 years. This pivot yielded very wide tables, but it was the best way to ensure the integrity of our database. We uploaded the two cleaned tables to PostgreSQL using SQLAlchemy, then executed an inner join to create a century summary table that displays the total emissions and average temperature for each country since the year 2000.
 
-### :chart_with_upwards_trend: ARIMA Model (data exploration phase of the project)
+### :chart_with_upwards_trend: ARIMA Model
 
 For our time series data and forecasting model we chose to use an ARIMA model from ```statsmodels.tsa.arima.model```. An ARIMA model uses time series data to identify its trends. Since we're looking at emissions over time, this was the best way to indicate the data's trends. First, we created a difference order for this ARIMA model in a function, then created two functions to find the optimal amount of autoregressive terms and moving average terms. Finally, we created an ARIMA test model to determine how well our model could predict the next value in our dataset. This effort improved the model's performance. Once we tested our model, we created one final function to forecast future emissions. 
 
@@ -39,7 +39,7 @@ Unfortunately, at this time there still needs to be work done to automate the an
 ![ARIMA_forecast](https://github.com/camillecoding/project/blob/main/Resources/ARIMA_forecast.PNG)
 
 
-### :earth_americas: Interactive Maps (analysis phase of the project - currently produced by visualizations)
+### :earth_americas: Interactive Maps
 
 Questions users may ask might be:
 
