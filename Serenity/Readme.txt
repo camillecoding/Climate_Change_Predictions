@@ -1,4 +1,4 @@
-To view website: click on "index.html"
+To view website: download "index.html"
 
 Template Name: Serenity
 Template URL: https://bootstrapmade.com/serenity-bootstrap-corporate-template/
