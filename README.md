@@ -19,7 +19,7 @@ Databases/Notebooks
 * Visual Studio Code
 * QuickDBD 
 
-Versions
+Library/Package Versions
 
 * Pandas: 1.3.4
 * Plotly: 5.7.0
