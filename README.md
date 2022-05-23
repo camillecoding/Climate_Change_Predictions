@@ -14,7 +14,7 @@ Languages
 
 Databases/Notebooks
 
-* pgAdmin/SQLite 
+* pgAdmin 4, postgres/SQL  
 * Jupyter Notebook 
 * Visual Studio Code
 * QuickDBD 
