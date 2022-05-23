@@ -28,6 +28,10 @@ Library/Package Versions
 * SKLearn: 0.24.2
 * Matplotlib: 3.4.3
 
+### Website (Dashboard - currently available for viewing via download. This will be deployed to Heroku when ready)
+
+https://github.com/camillecoding/Climate_Change_Predictions/blob/main/Serenity/index.html
+
 ### :triangular_ruler: Project Outline
 
 This team project aims to use past CO2 emissions data up until 2018 to predict future (2019 and 2020) emissions - then uses a machine learning model to test our hypothesis. The team is comprised of Brandon, Kat, Steven, and Camille. We believe that our prediction will be accurate in 2019 and inaccurate in 2020, since 2020 was a novel year. We will also use our model to forecast emissions data until 2050, since this is a benchmark year for reducing emissions targets. Our database of choice for this project will be pgadmin/SQL. An entity-relationship diagram was made beforehand to distinguish relationships within our data. Interactive maps will then be created to allow users to visualize the data for various characteristics such as time and region. Ultimately, we will combine all of these pieces to our project on a public website. 
