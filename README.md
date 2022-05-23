@@ -80,7 +80,7 @@ CO2 emissions data relies on the time variable. Undoubtedly, CO2 emissions have 
 
 We created a map with a time slider using Plotly in R to display CO2 emissions data globally as reported over time with the click of a button, "Play". This subtle interactivity provides users with an easy understanding of CO2 emissions changes over time and helps to answer broad questions users may have regarding regional or time differences.
 
-![](Mapping_World/static/images/R-Map-Screenshot.png)
+![](Mapping With R/R-Map-Screenshot.png)
 
 Another interactive map is in the works that uses HTML/JavaScript. The goal of this map is to create an event listener that allows users to select a year from a drop-down menu, then be able to click on each country and it's CO2 value is displayed along with the country's name. This map is similar to the previous map, however it requires more user interactivity. It allows the user to focus on one particular year and be able to click on any country and its corresponding data is returned. 
 
