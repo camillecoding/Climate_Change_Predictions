@@ -28,7 +28,8 @@ Library/Package Versions
 * SKLearn: 0.24.2
 * Matplotlib: 3.4.3
 
-### Website (Dashboard - currently available for viewing via download. This will be deployed to Heroku when ready)
+### :globe_with_meridians: Website/Dashboard 
+#### Currently available via download. The files will be deployed to Heroku when its ready. Google Slides Dashboard can also be viewed (hyperlinked at the bottom of this read.me)
 
 https://github.com/camillecoding/Climate_Change_Predictions/blob/main/Serenity/index.html
 
