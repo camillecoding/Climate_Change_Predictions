@@ -89,6 +89,8 @@ We created another map with a time slider using R, within RStudio to display CO2
 
 Our third interactive map also has a year slider like the first, but displays instead the average annual surface temperatures by country. Created within Jupyter Notebook using Plotly iplot, the map identifies cold countries as blue while hot countries are filled in red. The colorscale is constant, meaning that the user can progress through the years and observe the warming or cooling of each country or region.
 
+![newplot (1)](https://user-images.githubusercontent.com/95303422/170382145-e22e1671-5a40-49d2-9c29-3c9ced48be2d.png)
+
 
 ### :gear: Website Development
 
