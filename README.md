@@ -78,16 +78,15 @@ Questions users may ask might be:
 * How does one country compare to another with regards to CO2 emissions released?
 * When did CO2 emissions begin to exponentially increase?
 
-CO2 emissions data relies on the time variable. Undoubtedly, CO2 emissions have been increasing as time goes on. We decided to use several programs to create maps, since we wanted to display different levels of interactivity. The iplot map below has a slider that indicates emissions over time.
+CO2 emissions data relies on the time variable. Undoubtedly, CO2 emissions have been increasing as time goes on. We decided to use several programs and features to create maps, since we wanted to display different levels of interactivity. The iplot map below, created within Jupyter Notebook, has a slider that indicates emissions over time.
 
 ![newplot](https://user-images.githubusercontent.com/95657458/169627087-50e4c7db-464d-4b70-b38d-dff58af16c09.png)
 
+<img src="https://github.com/camillecoding/Climate_Change_Predictions/blob/639d41eb1f32316d16e64464a33fa4468cd29089/Mapping%20with%20R/R-map-screenshot.png" width="850" height="500"/>
 
-We created a map with a time slider using Plotly in R to display CO2 emissions data globally as reported over time with the click of a button, "Play". This subtle interactivity provides users with an easy understanding of CO2 emissions changes over time and helps to answer broad questions users may have regarding regional or time differences.
 
-<img src="https://github.com/camillecoding/Climate_Change_Predictions/blob/5b4be02022fbbc67f042d0d1444d98bbd7267ed1/Serenity/R-Map-Screenshot.png" width="650" height="420"/>
+We created another map with a time slider using R, within RStudio to display CO2 emissions data globally as reported over time with the click of a button, "Play". This subtle interactivity provides users with an easy understanding of CO2 emissions changes over time and helps to answer broad questions users may have regarding regional or time differences.
 
-Another interactive map is in the works that uses HTML/JavaScript. The goal of this map is to create an event listener that allows users to select a year from a drop-down menu, then be able to click on each country and it's CO2 value is displayed along with the country's name. This map is similar to the previous map, however it requires more user interactivity. It allows the user to focus on one particular year and be able to click on any country and its corresponding data is returned. 
 
 ### :gear: Website Development
 
