@@ -89,8 +89,6 @@ We created a map with a time slider using Plotly in R to display CO2 emissions d
 
 Another interactive map is in the works that uses HTML/JavaScript. The goal of this map is to create an event listener that allows users to select a year from a drop-down menu, then be able to click on each country and it's CO2 value is displayed along with the country's name. This map is similar to the previous map, however it requires more user interactivity. It allows the user to focus on one particular year and be able to click on any country and its corresponding data is returned. 
 
-- Thus far, we are able to display the country name when it is selected on the map. The next step is to integrate CO2 values by integrating an event-listener for year.
-
 ### :gear: Website Development
 
 The website "Where Do We Stand" was made with the help of templates provided by BootstrapMade, a platform that provides HTML/CSS frameworks. We chose this platform because of its clean designs and it allows us to be creative yet efficient with our time and resources.
