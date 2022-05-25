@@ -77,6 +77,7 @@ Questions users may ask might be:
 
 * How does one country compare to another with regards to CO2 emissions released?
 * When did CO2 emissions begin to exponentially increase?
+* How much has the world warmed, and which countries have experienced significant temperature increases?
 
 CO2 emissions data relies on the time variable. Undoubtedly, CO2 emissions have been increasing as time goes on. We decided to use several programs and features to create maps, since we wanted to display different levels of interactivity. The iplot map below, created within Jupyter Notebook, has a slider that indicates emissions over time.
 
@@ -86,6 +87,7 @@ We created another map with a time slider using R, within RStudio to display CO2
 
 <img src="https://github.com/camillecoding/Climate_Change_Predictions/blob/639d41eb1f32316d16e64464a33fa4468cd29089/Mapping%20with%20R/R-map-screenshot.png" width="850" height="500"/>
 
+Our third interactive map also has a year slider like the first, but displays instead the average annual surface temperatures by country. Created within Jupyter Notebook using Plotly iplot, the map identifies cold countries as blue while hot countries are filled in red. The colorscale is constant, meaning that the user can progress through the years and observe the warming or cooling of each country or region.
 
 
 ### :gear: Website Development
