@@ -82,10 +82,10 @@ CO2 emissions data relies on the time variable. Undoubtedly, CO2 emissions have 
 
 ![newplot](https://user-images.githubusercontent.com/95657458/169627087-50e4c7db-464d-4b70-b38d-dff58af16c09.png)
 
+We created another map with a time slider using R, within RStudio to display CO2 emissions data globally as reported over time with the click of a button, "Play". This subtle interactivity provides users with an easy understanding of CO2 emissions changes over time and helps to answer broad questions users may have regarding regional or time differences.
+
 <img src="https://github.com/camillecoding/Climate_Change_Predictions/blob/639d41eb1f32316d16e64464a33fa4468cd29089/Mapping%20with%20R/R-map-screenshot.png" width="850" height="500"/>
 
-
-We created another map with a time slider using R, within RStudio to display CO2 emissions data globally as reported over time with the click of a button, "Play". This subtle interactivity provides users with an easy understanding of CO2 emissions changes over time and helps to answer broad questions users may have regarding regional or time differences.
 
 
 ### :gear: Website Development
