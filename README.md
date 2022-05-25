@@ -29,9 +29,7 @@ Library/Package Versions
 * Matplotlib: 3.4.3
 
 ### :globe_with_meridians: Website/Dashboard 
-#### Currently available via download. The files will be deployed to Heroku when its ready. Google Slides Dashboard can also be viewed (hyperlinked at the bottom of this read.me)
-
-https://github.com/camillecoding/Climate_Change_Predictions/blob/main/Serenity/index.html
+#### [Use this link to view our website!](https://github.com/camillecoding/Climate_Change_Predictions/blob/main/Serenity/index.html)
 
 ### :triangular_ruler: Project Outline
 
@@ -98,11 +96,11 @@ The website "Where Do We Stand" was made with the help of templates provided by 
 
 ### :gear: Google Slides Presentation
 
-[Visit the Website Here](https://docs.google.com/presentation/d/1SZ6sEi_g2hc6ig5XFP1Tz_J80sFcxkxLEiBYQe4vods/edit?usp=sharing)
+[Review our presentation on this project here.](https://docs.google.com/presentation/d/1SZ6sEi_g2hc6ig5XFP1Tz_J80sFcxkxLEiBYQe4vods/edit?usp=sharing)
 
 ### :gear: Google Slides Dashboard
 
-[Visit the Website Here](https://docs.google.com/presentation/d/1aYsOOY9v--lcTgFCp-6uXjAY5jcdNZep7P2AtG0mdTs/edit?usp=sharing)
+[Take a look at our website!](https://bit.ly/39Vaj6j)
 
 ### :link: Meet Our Developers:
 
