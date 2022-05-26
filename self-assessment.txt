@@ -1,18 +1,22 @@
-# Individual Self-Assessment for Climate Change Project #
+Individual Self-Assessment for Climate Change Project
 
-## Self-Assessment ##
-I contributed to this project in a few key ways. After discussing a group interest on climate change, I sourced each of the datasets that would help us illustrate
-our questions. I was very involved in team discussions and helped us narrow the many questions we originally wanted our dataset to answer down to the two-three main
-questions we addressed in this project. My greatest challenge in this project was time management, as I had a heap of competing priorities to manage during the implementation
+Self-Assessment
+I contributed to this project in a few key ways. After discussing a group interest on climate change, I sourced each of the datasets that would help us illustrate our questions. 
+I was very involved in team discussions and helped us narrow the many questions we originally wanted our dataset to answer down to the two-three main
+questions we addressed in this project. 
+My greatest challenge in this project was time management, as I had a heap of competing priorities to manage during the implementation
 phase of our project. I had to prioritize and communicate with my team members, who were understanding of these circumstances. I worked around these challenges by
 actively participating on our Monday/Wednesday meetings and helping my team debug code.
 
-## Team Assessment ##
-The team largely worked asynchronously and brought any questions to our Monday/Wednesday meetings. We maintained an active Slack channel, which helped us share resources
-with one another. This method of communication was generally effective for us. If starting from scratch again, I would advocate for narrowing our project scope as early as possible
-to potentially increase the number of interesting visualizations we could produce.
 
-## Project Summary ##
+Team Assessment
+The team largely worked asynchronously and brought any questions to our Monday/Wednesday meetings. 
+We maintained an active Slack channel, which helped us share resources with one another. 
+This method of communication was generally effective for us. 
+If starting from scratch again, I would advocate for narrowing our project scope as early as possibleto potentially increase the number of interesting visualizations we could produce.
+
+
+Project Summary
 Climate change is a salient issue for our planet, and we wanted to explore a topic that would reveal and predict global emissions trends. 
-We were curious about predicting emissions through 2050 and how these projected emissions would impact global surface temperatures. By using several programming
-languages, including Python, SQL, Javascript, and R, we were able to produce visualizations that indicate continuing trends.
+We were curious about predicting emissions through 2050 and how these projected emissions would impact global surface temperatures. 
+By using several programming languages, including Python, SQL, Javascript, and R, we were able to produce visualizations that indicate continuing trends.
