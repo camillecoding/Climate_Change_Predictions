@@ -2,8 +2,11 @@
 
 ![](Mapping_World/static/images/Website-Screenshot.png)
 
-### 🧰 Tools:
 
+### :globe_with_meridians: Website/Dashboard 
+#### [Use this link to view our website!](https://github.com/camillecoding/Climate_Change_Predictions/blob/main/Serenity/index.html)
+
+### 🧰 Tools:
 Languages
 
 * SQL
@@ -27,9 +30,6 @@ Library/Package Versions
 * Statsmodels: 0.12.2
 * SKLearn: 0.24.2
 * Matplotlib: 3.4.3
-
-### :globe_with_meridians: Website/Dashboard 
-#### [Use this link to view our website!](https://github.com/camillecoding/Climate_Change_Predictions/blob/main/Serenity/index.html)
 
 ### :triangular_ruler: Project Outline
 
