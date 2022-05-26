@@ -9,3 +9,6 @@ For this project, We decided to work asynchronously as much as possible, providi
 I thought every member of the team was very good at pivoting their roles and taking on anything that the project called for. While at times I felt that we were focusing on the wrong issues during our Zoom sessions, we all took interest in the other team members' roles and were very in-sync.
 
 ## Summary of Project
+This project attempts to predict future carbon emissions for some of the highest-polluting countries in the world. Using an ARIMA maching-learning model, we trained and tested the model with historical carbon emissions before making predictions. The results of the ARIMA model are depicted in the following visualization.
+
+<img width="784" alt="Screen Shot 2022-05-25 at 11 58 52 PM" src="https://user-images.githubusercontent.com/95303422/170413102-2db6eab9-1a89-476f-800e-a49a34a64e91.png">
