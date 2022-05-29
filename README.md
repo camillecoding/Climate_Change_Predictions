@@ -4,7 +4,7 @@
 
 
 ### :globe_with_meridians: Website/Dashboard 
-#### [Use this link to view our website!](https://github.com/camillecoding/Climate_Change_Predictions/blob/main/Serenity/index.html)
+#### [Use this link to view our website!](https://camillecoding.github.io/Climate_Change_Predictions/Serenity/))
 
 ### 🧰 Tools:
 Languages
